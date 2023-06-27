@@ -1,0 +1,97 @@
+<html>
+
+	  <head>
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.alert {
+  padding: 20px;
+  background-color: gray;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: white;
+}
+ <title>Teichmann Racing</title>
+
+</style>
+	  </head>
+	  <h2 style="background-color:gray;">
+	  
+	 <div style="text-align: center;">
+	 <b style="font-size:38px"> Teichmann Racing </b>
+	 </div>
+	 <div style="text-align: center;">
+	  <a href="https://teichmann-racing.de/"><img src="teichmann.png" alt="teichmann" /></a>
+	  </div>
+	  <p> Ein Familienunternehmen mit der Liebe zum Rennsport
+	  <p> Teichmann Racing wurde als Autohaus, das sich mittlerweile auf die X-Bows speziealisiert hat, 1985 in Dormagen von Karl Heinz Teichman gegründet.
+	  
+	  <p> 2009 hat Karl Heinz mit seinem Sohn Georg Teichmann die Teichmann Racing GmbH gegründet, der heutige Firmensitz liegt in Adenau in der Eifel direkt an der Nordschleife.
+	  <a href="https://nuerburgring.de/"><img src="nls.png" alt="nls" />
+	  <p> Seit diesem Zeitpunkt ist Teichmann Racing mit Porsche cup 3 wagen auf der Nürburgring Nordschleife Zuhause.
+	  <img src="porsche.png" alt="porsche" height="337" width="654	  />
+	  
+	  <p> Seit 2018 setzt Teichmann auf den KTM XBOW 4.
+	  <a href="https://www.ktm.com/de-de/models/x-bow/ktm-x-bow-gt4.html"><img src="gt4.png" alt="gt4" width="860" height="700" /></a>
+	  <p> Seit 2020 geht Teichman mit dem KTM XBOW GTX an den start.
+	  <a href="https://www.ktm.com/de-de/models/x-bow.html"><img src="gtx.png" alt="gtx" height="757" width="1250" />
+	  <p><a href="https://www.ktm.com/de-de/models/x-bow.html">Hier kommen sie zur Offizielen KTM Website/\</a>
+	  <p> Für einen Test zwecks einer Rennstall erweiterung geht Teichmann Racig seit Ende 2022 mit einer Toyota Supra GT4 an den start.
+	  <p> Dieser wird von den Fahrern des X-Bows 920(bzw. im bild oben mit der Nummer 160): Yves Volte, Maik Rönnefarth, Georg Griesemann und Felix von der Laden gefahren.
+	 <a href="https://www.toyota.de/entdecke-toyota/motorsport/toyota-gazoo-racing"><img src="supra.png" alt="supra" height="634" width="1200" />
+	  <p> Dieses Jahr geht Der Rennstall mit 2 Toyota Gazoo Supra GT4 Evo 2023 an den Start.
+	  <p><a href="https://www.toyota.de/entdecke-toyota/motorsport/toyota-gazoo-racing">Dies ist der Partner Mit dem Teichmann die Supras betreibt</a>
+	  <p> Im Rahmen des 24h Rennen auf dem Nürburgring ging Teichmann in Kooperation mit der Griesemann Gruppe mit einer Supra der mit 100% EFuels betrieben wird an den start.
+	   <p><a href="https://griesemann.com/">Hier kommen sie zur Griesemann Gruppe</a>
+	  <p> Dieser Belegte in der Klasse AT(Alternative Antriebe) den Dritten Platz. 
+	   <a href="https://www.toyota.de/entdecke-toyota/motorsport/toyota-gazoo-racing"><img src="supras.png" alt="supras" height="633" width="850" /></a>
+	   <p> Teichmann Racing nimmt mit den beiden Haupt-Supras dieses jahr auch and der Gran Tourismo Serie der GTC teil und holte sich dort bereits den ein und anderen Podiumsplatz.(Glückwunsch meinerseits) 
+	   <p><a href="https://teichmann-racing.de/">Hier kommen sie zur Teichmann Racing seite</a>
+	  <body>
+	  
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Achtung!</strong> Dies ist eine Spaß Website, dies ist nicht die echte Teichmann seite,
+  zu dieser gelangen sie wenn sie das logo oder das wort unten klicken
+</div>
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Achtung!</strong> Diese Website gilt mehr als eine Verteiler Website um zu den verschiedenen Firmen zu gelangen.
+  
+</div>
+
+<div class="navbar">
+
+  
+  
+  <nav>
+     <ul>
+        <li><a href="https://teichmann-racing.de/">Teichmann</a></li>
+        <li><a href="https://www.ktm.com/de-de/models/x-bow.html">KTM</a></li>
+        <li><a href="https://www.toyota.de/entdecke-toyota/motorsport/toyota-gazoo-racing">Toyota GR</a></li>
+        <li><a href="https://griesemann.com/">Griesemann Gruppe</a></li>
+        <li><a href="https://nuerburgring.de/">Nordschleife</a></li>
+    </ul>
+  </nav>
+  
+</div>
+
+
+</body>
+	   
+	 
+
+	</html>
+	
